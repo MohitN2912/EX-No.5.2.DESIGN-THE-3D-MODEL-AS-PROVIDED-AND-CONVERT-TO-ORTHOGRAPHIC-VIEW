@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+<img width="1107" height="783" alt="EDM EX 5 2 25018024 IMG" src="https://github.com/user-attachments/assets/f188f19a-828d-49f8-a7a7-e9b5c7bef4d7" />
 
 
 ## RESULT:
